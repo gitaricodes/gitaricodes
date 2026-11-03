@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Gitari
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cool projects
+- 👋 Hi, I’m Kelvin Gitari
+- 👀 I’m into AI SEO 
 
 
 <!---
